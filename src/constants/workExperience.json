@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "years": "Nov 2023 - Present",
+    "role": "Senior Front-End Engineer",
+    "company": "Publicis Groupe (Kindred)",
+    "link": "https://www.kindred.cz/en/",
+    "description": "Led a team of 4 developers delivering 70+ high-quality interactive presentations for Pfizer. Automated the system for creating interactive presentations, increasing development speed by 400%. Designed a tool using AI for matching assets with similar projects. Created onboarding manuals to streamline product adoption.",
+    "tags": [
+      "TypeScript",
+      "React",
+      "Astro JS",
+      "Zustand",
+      "Tailwind CSS",
+      "Python",
+      "OpenCV"
+    ]
+  },
+  {
+    "id": 2,
+    "years": "July 2022 - Nov 2023",
+    "role": "Full-Stack Engineer",
+    "company": "UdTech",
+    "link": "https://udtech.co/",
+    "description": "Led an SEO and accessibility overhaul, increasing web traffic by 40%. Worked on a new version of jewelry buying website, boosting conversion rates by up to 10%. Co-developed a Typeform-like functionality with 200+ screens and. Conducted interviews and participated in code reviews.",
+    "tags": [
+      "TypeScript",
+      "React",
+      "Redux",
+      "Gatsby JS",
+      "Tailwind CSS",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "id": 3,
+    "years": "Dec 2020 - July 2022",
+    "role": "Full-Stack Engineer",
+    "company": "Incode Group",
+    "link": "https://www.incode-group.com/",
+    "description": "Developed a real-time vehicle data logging system, reducing data retrieval time by 5 times. Refactored a social network project in 2 months. Implemented WebRTC for real-time video communication in an online consultation platform. Delivered technical solutions aligned with stakeholder requirements.",
+    "tags": [
+      "TypeScript",
+      "React",
+      "Next JS",
+      "PostgreSQL",
+      "Nest JS",
+      "Redux",
+      "WebRTC",
+      "Socket.IO"
+    ]
+  },
+  {
+    "id": 4,
+    "years": "Nov 2019 - Dec 2020",
+    "role": "Front-End Engineer",
+    "company": "Freelance (Upwork)",
+    "link": "https://www.upwork.com",
+    "description": "Built an event ticketing website in 3 months with a team of 4 developers. Developed interactive whiteboard functionality for medical companies. Integrated customer service chat, increasing leads by 15%.",
+    "tags": ["JavaScript", "React", "Redux", "Socket.IO", "WordPress", "SASS"]
+  }
+]
