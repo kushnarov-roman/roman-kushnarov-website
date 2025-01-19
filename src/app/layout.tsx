@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Roman Kushnarov",
     description:
-      "Roman Kushnarov is a software engineer creating innovative and inclusive digital experiences.",
+      "Roman Kushnarov is a software engineer creating impressive and impactful digital experiences.",
     url: "https://romankushnarov.com",
     images: [
       {
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     card: "summary",
     title: "Roman Kushnarov",
     description:
-      "Roman Kushnarov is a software engineer creating innovative and inclusive digital experiences.",
+      "Roman Kushnarov is a software engineer creating impressive and impactful digital experiences.",
     images: ["https://romankushnarov.com/android-chrome-512x512.png"],
   },
 };
