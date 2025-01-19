@@ -11,7 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Roman Kushnarov",
   description:
-    "Roman Kushnarov is a software engineer who builds revolutional, inclusive products and digital experiences for the web.",
+    "Roman Kushnarov is a software engineer who builds impressive, impactful products and digital experiences for the web.",
   icons: {
     icon: [
       { rel: "icon", url: "/favicon-16x16.png", sizes: "16x16" },

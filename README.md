@@ -1,5 +1,5 @@
 <h1 align="center">
-  romankushnarov.com
+  <a href="https://brittanychiang.com" target="_blank">romankushnarov.com</a>
 </h1>
 
 ## 🛠 Installation & Set Up
