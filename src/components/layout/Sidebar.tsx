@@ -12,12 +12,14 @@ const Sidebar = () => {
               Roman Kushnarov
             </h1>
           </a>
-          <h2 className="text-lg sm:text-xl mb-4 text-teal-400">
-            Software Engineer
+          <h2 className="text-lg sm:text-2xl mb-4 text-teal-400">
+            Technical Business Analyst
           </h2>
-          <p className="text-md max-w-[400px] leading-normal text-primary-dark">
-            I create impressive, innovative and impactful software solutions for
-            the web.
+          <p className="text-md max-w-[400px] leading-normal text-primary-white">
+            I connect strategy, product, and technology to turn ambitious ideas into real outcomes.
+          </p>
+          <p className="text-md max-w-[400px] leading-normal text-primary-dark mt-4">
+            Prague, CZ · 6+ years in digital product delivery
           </p>
           <Navigation />
         </div>

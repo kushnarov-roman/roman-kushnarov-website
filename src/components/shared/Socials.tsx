@@ -18,11 +18,6 @@ const Socials = () => {
           <Icons.GithubIcon />
         </a>
       </li>
-      <li>
-        <a href="https://www.instagram.com/k4zzz3/" target="_blank">
-          <Icons.InstagramIcon />
-        </a>
-      </li>
     </ul>
   );
 };

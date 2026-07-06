@@ -11,7 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Roman Kushnarov",
   description:
-    "Roman Kushnarov is a software engineer who builds impressive, impactful products and digital experiences for the web.",
+    "Roman Kushnarov is a technical business analyst who builds impressive, impactful products and digital experiences for the web.",
   icons: {
     icon: [
       { rel: "icon", url: "/favicon-16x16.png", sizes: "16x16" },
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Roman Kushnarov",
     description:
-      "Roman Kushnarov is a software engineer creating impressive and impactful digital experiences.",
+      "Roman Kushnarov is a technical business analyst creating impressive and impactful digital experiences.",
     url: "https://romankushnarov.com",
     images: [
       {
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     card: "summary",
     title: "Roman Kushnarov",
     description:
-      "Roman Kushnarov is a software engineer creating impressive and impactful digital experiences.",
+      "Roman Kushnarov is a technical business analyst creating impressive and impactful digital experiences.",
     images: ["https://romankushnarov.com/android-chrome-512x512.png"],
   },
 };

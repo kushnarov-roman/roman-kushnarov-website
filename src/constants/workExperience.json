@@ -1,63 +1,90 @@
 [
   {
     "id": 1,
-    "years": "Nov 2023 - Present",
+    "years": "May 2025 - Present",
     "role": "Senior Front-End Engineer",
-    "company": "Publicis Groupe (Kindred)",
-    "link": "https://www.kindred.cz/en/",
-    "description": "Led a team of 4 developers delivering 70+ high-quality interactive presentations for Pfizer. Automated the system for creating interactive presentations, increasing development speed by 400%. Designed a tool using AI for matching assets with similar projects. Created onboarding manuals to streamline product adoption.",
+    "company": "Acrobits",
+    "link": "https://acrobits.net/",
+    "description": "Designed an audit system for VoIP app changes, adding full change-history visibility and making investigations faster. Designed an in-app version comparator for VoIP configurations, reducing review time by 90%+ with a visual file-level diff workflow. Translated support, configuration, and release needs into practical backlog items and implementation-ready solutions.",
     "tags": [
-      "TypeScript",
+      "VoIP",
+      "User Stories",
+      "Backlog",
+      "REST APIs",
+      "Data Flows",
       "React",
-      "Astro JS",
-      "Zustand",
-      "Tailwind CSS",
-      "Python",
-      "OpenCV"
-    ]
-  },
-  {
-    "id": 2,
-    "years": "July 2022 - Nov 2023",
-    "role": "Full-Stack Engineer",
-    "company": "UdTech",
-    "link": "https://udtech.co/",
-    "description": "Led an SEO and accessibility overhaul, increasing web traffic by 40%. Worked on a new version of jewelry buying website, boosting conversion rates by up to 10%. Co-developed a Typeform-like functionality with 200+ screens and. Conducted interviews and participated in code reviews.",
-    "tags": [
       "TypeScript",
-      "React",
-      "Redux",
-      "Gatsby JS",
-      "Tailwind CSS",
-      "Express",
-      "MongoDB"
-    ]
-  },
-  {
-    "id": 3,
-    "years": "Dec 2020 - July 2022",
-    "role": "Full-Stack Engineer",
-    "company": "Incode Group",
-    "link": "https://www.incode-group.com/",
-    "description": "Developed a real-time vehicle data logging system, reducing data retrieval time by 5 times. Refactored a social network project in 2 months. Implemented WebRTC for real-time video communication in an online consultation platform. Delivered technical solutions aligned with stakeholder requirements.",
-    "tags": [
-      "TypeScript",
-      "React",
-      "Next JS",
-      "PostgreSQL",
-      "Nest JS",
-      "Redux",
-      "WebRTC",
       "Socket.IO"
     ]
   },
   {
+    "id": 2,
+    "years": "Nov 2023 - Feb 2025",
+    "role": "Senior Front-End Engineer / Delivery Lead",
+    "company": "Publicis Groupe (Kindred)",
+    "link": "https://www.kindred.cz/en/",
+    "description": "Led a team of 4 developers delivering 70+ high-quality interactive presentations for Pfizer. Coordinated project delivery by aligning client requirements, design specifications, QA feedback, and engineering execution across a 5-person team. Improved delivery consistency through standardized project setup, onboarding documentation, and workflow automation that increased development speed by 400%.",
+    "tags": [
+      "Delivery",
+      "Stakeholders Alignment",
+      "Agile/Scrum",
+      "Requirements Elicitation",
+      "Confluence",
+      "TypeScript",
+      "Python"
+    ]
+  },
+  {
+    "id": 3,
+    "years": "July 2022 - Nov 2023",
+    "role": "Full-Stack Engineer / IT Business Analyst",
+    "company": "UdTech",
+    "link": "https://udtech.co/",
+    "description": "Led an SEO and accessibility overhaul, increasing web traffic by 40%. Clarified stakeholder goals, shaped functional requirements, and translated product ideas into delivery tasks. Built a custom analytics system for real-time product visibility and supported user-flow improvements that increased conversions by up to 10%.",
+    "tags": [
+      "Functional Requirements",
+      "User Flows",
+      "Gap Analysis",
+      "Jira",
+      "React",
+      "TypeScript",
+      "Node JS",
+      "Gatsby JS"
+    ]
+  },
+  {
     "id": 4,
-    "years": "Nov 2019 - Dec 2020",
+    "years": "Dec 2020 - July 2022",
     "role": "Front-End Engineer",
+    "company": "Incode Group",
+    "link": "https://www.incode-group.com/",
+    "description": "Built a real-time vehicle data logging and trip management system using in-car diagnostic devices, improving data retrieval speed and operational transparency by 5x. Designed data-heavy dashboards, widgets, and debugging flows that improved fleet visibility, issue investigation, and operational decision-making.",
+    "tags": [
+      "Data Flows",
+      "UML",
+      "SQL",
+      "System Analysis",
+      "React",
+      "Next JS",
+      "WebSockets",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": 5,
+    "years": "Nov 2019 - Dec 2020",
+    "role": "Front-End Developer",
     "company": "Freelance (Upwork)",
     "link": "https://www.upwork.com",
-    "description": "Built an event ticketing website in 3 months with a team of 4 developers. Developed interactive whiteboard functionality for medical companies. Integrated customer service chat, increasing leads by 15%.",
-    "tags": ["JavaScript", "React", "Redux", "Socket.IO", "WordPress", "SASS"]
+    "description": "Worked directly with clients to understand business needs, clarify scope, prioritize changes, and turn ideas into usable web products. Delivered an event ticketing platform with a 4-person development team within 3 months and built customer-facing functionality for medical and service-oriented businesses.",
+    "tags": [
+      "Use Cases",
+      "User Flows",
+      "JavaScript",
+      "React",
+      "Redux",
+      "Socket.IO",
+      "WordPress"
+    ]
   }
 ]
