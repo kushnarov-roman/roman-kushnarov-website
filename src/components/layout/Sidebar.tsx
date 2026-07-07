@@ -13,7 +13,7 @@ const Sidebar = () => {
             </h1>
           </a>
           <h2 className="text-lg sm:text-2xl mb-4 text-teal-400">
-            Technical Business Analyst
+            IT Business Analyst
           </h2>
           <p className="text-md max-w-[400px] leading-normal text-primary-white">
             I connect strategy, product, and technology to turn ambitious ideas into real outcomes.
